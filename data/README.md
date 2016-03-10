@@ -20,7 +20,7 @@ This file describes details about the dataset used in the following paper
 
 ### I see a file by the name of t3_1p32dl, how to interpret this and other such files?
 - ```t3_ip32dl``` is a unique identifier (aka link_id) of the full AMA by one particular celebrity. 
-- for any such id, one can easily review the whole thread by just by excluding the ```t3_``` part like https://www.reddit.com/r/IAmA/comments/```1p32dl```
+- for any such id, one can easily review the whole thread by just by excluding the ```t3_``` part and using ```1p32dl``` like https://www.reddit.com/r/IAmA/comments/1p32dl
 
 
 ### What is contained in each such file?
