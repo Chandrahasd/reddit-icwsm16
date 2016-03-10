@@ -16,7 +16,7 @@ NNSE
 			out_nnse_embed.txt : Output embedding(format: same as input)
 			out_nnse_dic.txt : learned dictionary
 
-	- run ```spams_DL.py [-h] -f VECTOR_FILEPATH -d K [-l LAMBDA]```
+	- run ```python2.6 spams_DL.py [-h] -f VECTOR_FILEPATH -d K [-l LAMBDA]```
 
 
 - ```reduce_dimension.py``` : Dimensionality reduction using SVD
