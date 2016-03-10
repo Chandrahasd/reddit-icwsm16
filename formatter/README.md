@@ -11,4 +11,6 @@ Term Frequency Expansion
 		- ```aux_data```: question auxiliary data(linkd_id name reply)
 		- ```input_sc.txt```: question term freq matrix(question_vocab_id, word_vocab_id count)
 
+### Contact:
+- If you have any queries, feel free to contact Yogesh (yogeshd2612@gmail.com)
 		

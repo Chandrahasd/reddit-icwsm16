@@ -23,3 +23,6 @@ NNSE
 	- ```python reduce_dimension.py input_file_name out_file_name final_dimension```
 	- Input format: input matrix in sparse format(each line contain row_id col_id value)
 
+
+### Contact:
+- If you have any queries, feel free to contact Yogesh (yogeshd2612@gmail.com)

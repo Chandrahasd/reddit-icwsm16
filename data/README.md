@@ -36,5 +36,9 @@ This file describes details about the dataset used in the following paper
 	- ```retrieved_on``` : denotes the time of retrieval, updates and deletions after the time are not accomodated. 
 
 
+### How was the data collected?
+- We are grateful to the scraping efforts of a reddit user Stuck_in_the_Matrix, we extracted out IamA related content from the larger dataset which is available here : https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment 
+
+
 ### What if I have more questions?
 - feel free to reach out to Danish (danish037@gmail.com).
