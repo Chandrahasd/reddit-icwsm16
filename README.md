@@ -21,3 +21,5 @@ This file describes details about the datasets and code used in the following pa
 - Details about each of these modules can be obtained from their corresponding directories
 
 
+### Contact
+- Regarding any queries, feel free to contact Danish (danish037@gmail.com)
