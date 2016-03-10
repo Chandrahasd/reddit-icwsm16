@@ -10,7 +10,7 @@ This file describes details about the dataset used in the following paper
 
 
 ### Where is the data located?
-- the data can be found at 
+- the data can be found at https://drive.google.com/folderview?id=0B5NaJLWH8Lq_VUozY1ZOYm9JS2c&usp=sharing 
 
 ### How to make sense of the data?
 - the paper analysed different AMA threads across four different domains : actors, directors, authors, politicians.
@@ -32,7 +32,7 @@ This file describes details about the dataset used in the following paper
 - there is a lot of information about each question that is available, the following keys are in particular important
 	- ```author``` : author of the comment
 	- ```parent_id``` : id of the parent comment. If it is a top-level comment, the parent_id will be the original post by the original poster (OP)
-	- ```body```, ```created_utc```, ```link_id``` represnet the body, the time of creation and the unique identifier
+	- ```body```, ```created_utc```, ```link_id``` represent the body, the time of creation and the unique identifier
 	- ```retrieved_on``` : denotes the time of retrieval, updates and deletions after the time are not accomodated. 
 
 
