@@ -1,4 +1,4 @@
-# python reduce_dimension.py input_file_name out_file_name reduce_dimension
+# python reduce_dimension.py input_file_name out_file_name final_dimension
 # input file format : each line contains (doc_id word_id count)
 import scipy.sparse as ssp
 import scipy.sparse.linalg as ssl
