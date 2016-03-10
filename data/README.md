@@ -4,7 +4,7 @@ Data
 
 This file describes details about the dataset used in the following paper
 	
-	Discovering Response-Eliciting Factors in Social Question Answering
+	Discovering Response-Eliciting Factors in Social Question Answering : A Reddit Inspired Study
 	Danish, Yogesh Dahiya and Partha Talukdar
 	Proceedings of ICWSM 2016
 
