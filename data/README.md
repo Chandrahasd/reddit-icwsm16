@@ -34,3 +34,7 @@ This file describes details about the dataset used in the following paper
 	- ```parent_id``` : id of the parent comment. If it is a top-level comment, the parent_id will be the original post by the original poster (OP)
 	- ```body```, ```created_utc```, ```link_id``` represnet the body, the time of creation and the unique identifier
 	- ```retrieved_on``` : denotes the time of retrieval, updates and deletions after the time are not accomodated. 
+
+
+### What if I have more questions?
+- feel free to reach out to Danish (danish037@gmail.com).
